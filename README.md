@@ -1,4 +1,4 @@
-# HAPPY BIRTHDAY FRIEND
+<h1 style="text-align: center"># HAPPY BIRTHDAY FRIEND</h1>
 
 If you made it here, you probably know me and I forgot to make you a birthday card. :(</br>
 That being the case, you are welcome to feel love by dowloading the jar, or the .java file and running the contents.</br>
